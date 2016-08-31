@@ -1,6 +1,5 @@
 # Python 3.5.2
 # Kivy
-#
 
 from kivy.app import App
 from kivy.uix.widget import Widget
